@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Rajvardhanchavan](https://hashnode.com/@Rajvardhanchavan)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **chavansrajvardhan10@gmail.com**
