@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **[Blog App](https://github.com/Chavanrajvardhan/Blog_App)** **[Suggetion Box](https://github.com/Chavanrajvardhan/Suggestion_Box)**
+- 🔭 I’m currently working on **[Blog App](https://github.com/Chavanrajvardhan/Blog_App)** And **[Suggetion Box](https://github.com/Chavanrajvardhan/Suggestion_Box)**
 
 - 🌱 I’m currently learning **React**
 
