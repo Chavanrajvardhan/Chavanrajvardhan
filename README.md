@@ -26,7 +26,7 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavanrajvardhan&show_icons=true&locale=en&layout=compact" alt="chavanrajvardhan" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavanrajvardhan&show_icons=true&locale=en" alt="chavanrajvardhan" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavanrajvardhan&show_icons=true&locale=en" alt="chavanrajvardhan" /></p> -->
 
 
 
